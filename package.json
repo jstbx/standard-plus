@@ -1,0 +1,24 @@
+{
+  "name": "standard-plus",
+  "version": "0.0.0",
+  "description": "Configurable and customizable StandardJS with additional extras.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ci:test": "echo 0",
+    "ci:report": "echo 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jstbx/standard-plus.git"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "author": "Richard Szakacs <richardszkcs@gmail.com> (www.richardszkcs.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jstbx/standard-plus/issues"
+  },
+  "homepage": "https://github.com/jstbx/standard-plus#readme"
+}
